@@ -163,6 +163,11 @@ https://css-tricks.com/three-line-menu-navicon*/
   width: 100%
 }
 .topimage{
+  background-image: url("../images/topimage.jpg");
+  background-repeat: no-repeat;
+  background-size: 45% 200px;
+  background-color: black;
+  background-position: center;
   height:200px;
   width:100%;
   overflow: hidden;
